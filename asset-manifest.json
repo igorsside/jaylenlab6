@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dig4639-s24-react-igorsside/static/css/main.f855e6bc.css",
+    "main.js": "/dig4639-s24-react-igorsside/static/js/main.0bc2cae3.js",
+    "static/js/592.b45129cc.chunk.js": "/dig4639-s24-react-igorsside/static/js/592.b45129cc.chunk.js",
+    "index.html": "/dig4639-s24-react-igorsside/index.html",
+    "main.f855e6bc.css.map": "/dig4639-s24-react-igorsside/static/css/main.f855e6bc.css.map",
+    "main.0bc2cae3.js.map": "/dig4639-s24-react-igorsside/static/js/main.0bc2cae3.js.map",
+    "592.b45129cc.chunk.js.map": "/dig4639-s24-react-igorsside/static/js/592.b45129cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0bc2cae3.js"
+  ]
+}
